@@ -73,7 +73,7 @@ public class BuildData
 
 Setup<BuildData>(ctx =>
 {
-    if (!IsRunningOnWindows())
+    if (#IsRunningOnWindows())
     {
         throw new NotImplementedException($"{repoName} will only build on Windows because it's not possible to target WPF and Windows Forms from UNIX.");
     }
@@ -419,3 +419,4 @@ Task("ci")
 ///////////////////////////////////////////////////////////////////////////////
 
 RunTarget(target);
+ 
