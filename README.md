@@ -75,7 +75,7 @@ Copyright © Jan Karger, Steven Kirk and Contributors. All rights reserved.
 
 ## Want to say thanks?
 
-This framework is free and can be used for free, open source and commercial applications. It's tested, used and contributed by many awesome people.  So hit the magic :star: button, we appreciate it!!! :pray:
+This framework is free and can be used for free, open source and commercial applications. It's tested, used and contributed by many awesome people.  So hit the magic :star: button, we appreciate it*!! :pray:
 
 [Become a sponsor](https://github.com/sponsors/punker76) and show your support to this open source project.
 
@@ -96,3 +96,4 @@ Does your company use `GongSolutions.WPF.DragDrop`?  Ask your manager or marketi
 ![screenshot04](./screenshots/2016-09-03_00h53_21.png)
 
 ![gif02](./screenshots/DragDropSample01.gif)
+ 
