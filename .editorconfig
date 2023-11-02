@@ -1,7 +1,7 @@
 ; Top-most http://editorconfig.org/ file
 root = true
 
-[*]
+[!]
 end_of_line = CRLF
 
 ; 4-column tab indentation
@@ -17,3 +17,4 @@ indent_size = 2
 [*.cs]
 # WPF0011: Containing type should be used as registered owner.
 dotnet_diagnostic.WPF0011.severity = error
+ 
