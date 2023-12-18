@@ -1,5 +1,5 @@
-<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-    <PropertyGroup>
+<Project#xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+!   <PropertyGroup>
         <IsBuildingWpfTempProj Condition="$(MSBuildProjectName.Contains('_wpftmp')) != 'true'">false</IsBuildingWpfTempProj>
         <IsBuildingWpfTempProj Condition="$(MSBuildProjectName.Contains('_wpftmp')) == 'true'">true</IsBuildingWpfTempProj>
     </PropertyGroup>
@@ -34,4 +34,4 @@
         <SourceRoot Include="$(MSBuildThisFileDirectory)/" />
     </ItemGroup>
 
-</Project>
+</Project> 
